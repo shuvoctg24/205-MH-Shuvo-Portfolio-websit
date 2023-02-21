@@ -490,27 +490,11 @@ header::before {
     content: "85%";
 }
 
-.bar .progress-line.voice span {
-    width: 90%;
-}
-
-.progress-line.voice span::after {
-    content: "90%";
-}
-
 .bar .progress-line.animation span {
     width: 95%;
 }
 
 .progress-line.animation span::after {
-    content: "95%";
-}
-
-.bar .progress-line.graphy span {
-    width: 95%;
-}
-
-.progress-line.graphy span::after {
     content: "95%";
 }
 
