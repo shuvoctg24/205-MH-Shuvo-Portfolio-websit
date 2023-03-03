@@ -451,52 +451,40 @@ header::before {
 }
 
 .bar .progress-line.graphic span {
-    width: 95%;
+    width: 100%;
 }
-
-.progress-line.graphic span::after {
+/* .progress-line.graphic span::after {
     content: "95%";
-}
+} */
 
 .bar .progress-line.web span {
-    width: 90%;
+    width: 100%;
 }
-
-.progress-line.web span::after {
+/* .progress-line.web span::after {
     content: "90%";
-}
+} */
 
 .bar .progress-line.video span {
-    width: 95%;
+    width: 100%;
 }
-
-.progress-line.video span::after {
+/* .progress-line.video span::after {
     content: "95%";
-}
+} */
 
 .bar .progress-line.marketing span {
-    width: 85%;
+    width: 100%;
 }
-
-.progress-line.marketing span::after {
+/* .progress-line.marketing span::after {
     content: "85%";
-}
-
-.bar .progress-line.seo span {
-    width: 85%;
-}
-
-.progress-line.seo span::after {
-    content: "85%";
-}
+} */
 
 .bar .progress-line.animation span {
-    width: 95%;
+    width: 100%;
 }
-
-.progress-line.animation span::after {
+/* .progress-line.animation span::after {
     content: "95%";
-}
+} */
+
 
 .progress-line span::before {
     position: absolute;
@@ -751,7 +739,6 @@ footer ul li a:hover {
     .btn {
         padding: 0.3rem 1.2rem;
     }
-
 
 
     /* ======NAVBAR OPEN======= */
